@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savyagupta-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Savya Gupta" /> <a href="https://savyagupta-2004.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://savyagupta-2004.github.io/"/></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitad791&label=Profile%20views&color=0e75b6&style=flat" alt="Arpita Dhamange" /> <a href="https://arpitad791.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ArpitaDhamange-2004.github.io/"/></a> </p>
 <!-- <img src="./header.png"> -->
  <img align="center" src="./banner.jpg" alt="banner"  />
-<h1 align="center">Hello 👋, I'm Savya Gupta</h1>
+<h1 align="center">Hello 👋, I'm Arpita Dhamange</h1>
 <h3 align="center">Software Developer | Full-Stack & Embedded Systems Specialist</h3>
 <div align="">  
      Full-Stack & Embedded Systems Developer with hands-on experience as an SDE Intern at Amar Machine Tools and Senior Web Developer at KeyNcoders Innovations. Skilled in delivering robust software and IoT solutions, managing complete SDLC, and optimizing both frontend and backend system performance. Versatile in MERN, Next.js, Three.js, and cloud technologies, with a strong foundation in data structures, algorithms, and database design. Pursuing B.Tech in Electronics & Communication Engineering (VIT, ’26).
@@ -17,10 +17,10 @@
 </div>
 <h3 align="center">Find me on:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/-savyagupta/" target="_blank">
+    <a href="https://www.linkedin.com/in/-ArpitaDhamange/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/u/savya_gupta/" target="_blank">
+    <a href="https://leetcode.com/u/Arpita_Dhamange/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
@@ -82,8 +82,8 @@
 </p>  
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savyagupta-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyagupta-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitaDhamange-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaDhamange-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 <h3 align="center">Time to save the World</h3>
 <div align="center">
